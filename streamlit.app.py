@@ -1,5 +1,5 @@
 import streamlit as st
-st.write("kdjfbwkj")
+st.write("kdjfbwk")
 import seaborn as sns
 df =sns.load_dataset("tips")
 st.write(df)
